@@ -3,3 +3,5 @@
 *.mpf linguist-language=G-code
 *.spf linguist-language=G-code
 *.min linguist-language=G-code
+*.NC linguist-language=G-code
+*.H  linguist-language=G-code
